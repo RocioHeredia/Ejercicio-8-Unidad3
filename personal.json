@@ -1,0 +1,66 @@
+﻿[
+    {
+        "tipo_personal": "Investigador",
+        "cuil": 2222222222,
+        "apellido": "Lopez",
+        "nombre": "Carlos",
+        "sueldo_basico": 60000.0,
+        "antiguedad": 8,
+        "area_investigacion": "Biologia",
+        "tipo_investigacion": "II"
+    },
+    {
+        "tipo_personal": "Personal_Apoyo",
+        "cuil": 4444444444,
+        "apellido": "Perez",
+        "nombre": "Juan",
+        "sueldo_basico": 40000.0,
+        "antiguedad": 3,
+        "categoria": 4
+    },
+    {
+        "tipo_personal": "Docente_Investigador",
+        "cuil": 3333333333,
+        "apellido": "Martinez",
+        "nombre": "Laura",
+        "sueldo_basico": 70000.0,
+        "antiguedad": 10,
+        "area_investigacion": "Ciencias Sociales",
+        "tipo_investigacion": "III",
+        "carrera": "Economia",
+        "cargo": "simple",
+        "catedra": "Microeconomia",
+        "categoria_incentivos": "III",
+        "importe_extra": 1500.0
+    },
+    {
+        "tipo_personal": "Docente",
+        "cuil": 1111111111,
+        "apellido": "Gonzalez",
+        "nombre": "Maria",
+        "sueldo_basico": 50000.0,
+        "antiguedad": 5,
+        "carrera": "Historia",
+        "cargo": "exclusivo",
+        "catedra": "Historia Antigua"
+    },
+    {
+        "tipo_personal": "Personal_Apoyo",
+        "cuil": 888,
+        "apellido": "Lopez",
+        "nombre": "Oscar",
+        "sueldo_basico": 20000.0,
+        "antiguedad": 3,
+        "categoria": 1
+    },
+    {
+        "tipo_personal": "Investigador",
+        "cuil": 555,
+        "apellido": "Martin",
+        "nombre": "Pedro",
+        "sueldo_basico": 40000.0,
+        "antiguedad": 4,
+        "area_investigacion": "Ciencias",
+        "tipo_investigacion": "Sociales"
+    }
+]
